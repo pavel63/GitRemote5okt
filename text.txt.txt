@@ -1,3 +1,8 @@
 initial text on master computer
+<<<<<<< HEAD
 second string
 third string devv
+=======
+MASTER ON PLACE DLETED
+third string devv
+>>>>>>> master
